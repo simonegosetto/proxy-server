@@ -1,0 +1,23 @@
+{
+  "name": "proxy-serve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonegosetto/proxy-serve.git"
+  },
+  "author": "Simone Gosetto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonegosetto/proxy-serve/issues"
+  },
+  "homepage": "https://github.com/simonegosetto/proxy-serve#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
